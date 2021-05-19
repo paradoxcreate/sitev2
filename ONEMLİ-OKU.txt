@@ -1,0 +1,12 @@
+PARADOX DEVELOPMENT
+-
+ARKADAŞLAR HTML BİLMEYEN ARKADAŞLARIMIZ İÇİN BU METİNİ YAZIYORUM OKURSANIZ DAHA KOLAY KENDİNİZE GÖRE KİŞİSELLEŞTİREBİLİRSİNİZ.
+-
+1- LİNKLERİ KENDİNİZE ÖZEL YERLERE YÖNLENDİRMEK İÇİN <a href=""> yazan yerlerdeki href="" 'in içine kendi linklerinizi yerleştirin.
+2- KENDİ İCONLARINIZI,LOGOLARINIZI YERLEŞTİRMEK İÇİN <img src=""> kodunu içindeki src="" yerine kendi fotoğraf linklerinizi yerleştirin.
+(eğerki büyük gelirse width="200px" vb. yazarak boyutunu ayarlayın)
+3- YAZILARI DEĞİŞTİRMEK İÇİNDE <p> <h1> <h2> vb... gibi tagların arasına yazılan şeyleri kendinize özel yazarak değiştirebilirsiniz.
+-
+BENİM SUNUCUM DIŞINDA PAYLAŞANLARLARI BİLDİRİRSENİZ SEVİNİRİM
+-
+https://discord.gg/gtTTN726aM
